@@ -37,7 +37,7 @@
 ### Thaís Oliveira
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-oliveira-2341a0147/) 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tholivera)
-
+<div>
 <a href="https://github.com/valterchess">
        <img align="center" alt="Dev Valter" height="80" width="80" src="https://i.imgur.com/E6FvVWJ.png">
    </a> 
@@ -45,4 +45,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valter-silva-5a44b1171/) 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valterchess)
 
-
+</div>
