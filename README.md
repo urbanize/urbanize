@@ -45,4 +45,3 @@
        <img align="center" alt="Dev Valter" height="80" width="80" src="https://i.imgur.com/E6FvVWJ.png">
    </a> 
 
-    </div>
