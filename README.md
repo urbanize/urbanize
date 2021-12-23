@@ -8,7 +8,7 @@
 </div>
   <div><h2>Projeto desenvolvido por:</h2>
   
-<div>
+
 ### Andreia Menezes
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreiajeniffer/)
