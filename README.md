@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/BMwqgP4.png"/>
   </a>
 
-<
+</div>
   <div><h2>Projeto desenvolvido por:</h2>
   
 
