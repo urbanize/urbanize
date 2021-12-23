@@ -1,5 +1,7 @@
   
 <div align="center">
+  <img src="https://i.imgur.com/BMwqgP4.png"/>
+    
   <a href="https://github.com/urbanize">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=urbanize&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
