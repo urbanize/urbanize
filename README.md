@@ -6,7 +6,7 @@
   </a>
 
 </div>
-  <div><h2>Projeto desenvolvido por:</h2>
+  <div><h2>Projeto desenvolvido por:</h2> </div>
   
  <a href="https://github.com/AndreiaJM">
        <img align="center" alt="Dev Andreia" height="80" width="80" src="https://i.imgur.com/miqqmfo.png">
