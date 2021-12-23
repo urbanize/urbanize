@@ -8,11 +8,6 @@
 </div>
   <div><h2>Projeto desenvolvido por:</h2>
   
-
-
-  </div> 
-  
-  <--
 <div>
 ### Andreia Menezes
 
@@ -51,4 +46,3 @@
    </a> 
 
     </div>
--->
